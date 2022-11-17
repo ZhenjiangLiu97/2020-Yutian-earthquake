@@ -1,5 +1,5 @@
 # 2020-Yutian-earthquake
-## 2020 Yutian seismic and aseismic fault models derived from InSAR observations
+## The co- and post-seismic slip models of the 2020 Mw 6.3 Yutian earthquake derived from InSAR observations
 
 The co-seismic slip distribution model is stored in the file "2020yutianEQ_coseismic_slip_model.simp", and the post-seismic afterslip distribution model is stored in the file "2020yutianEQ_afterslip_model.simp".
  
